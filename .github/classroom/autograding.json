@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Tests Práctica 01 02 parte 01",
+      "setup": "",
+      "run": "mvn package",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
